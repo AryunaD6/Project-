@@ -36,7 +36,7 @@
 
 Первым делом мы лемматизировали все тексты через MyStem. 
 Мы покажем на одном манифесте все этапы нашей работы. Выбранный документ: Мережковский "О причинах упадка и о новых течениях современной русской литературы"
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(6).jpg)
+![alt text](https://github.com/AryunaD6/aryunad6.github.io/blob/master/2019-69-87.jpg)
 Получилось вот это: 
 ![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(5).jpg)
 
