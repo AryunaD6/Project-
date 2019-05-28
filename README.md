@@ -36,30 +36,30 @@
 
 Первым делом мы лемматизировали все тексты через MyStem. 
 Мы покажем на одном манифесте все этапы нашей работы. Выбранный документ: Мережковский "О причинах упадка и о новых течениях современной русской литературы"
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(6).png)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(6).jpg)
 Получилось вот это: 
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(5).png)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(5).jpg)
 
 Далее мы загрузили лемматизированный текст в AntCon, чтобы посмотреть самые частотные слова в тексте: 
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-24%20(1).png)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-24%20(1).jpg)
 
 Выбрав из получившегося списка самые "интересные" и, на наш взгляд, примечательные слова, мы сделали графики в НКРЯ и Google Ngram, чтобы посмотреть динамику использования данных слов. У нас были предположения, что возможно их популярность возрастала именно в год публикации манифеста. Некоторые наши предположения оправдались. 
 К нашему счастью, оба ресурса показали почти идентичные графики. 
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(7).png)
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(8).png) 
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(7).jpg)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(8).jpg) 
 Очень занимательно было наблюдать за графиками некоторых слов. 
 
 Далее мы написали мини-обзор на каждый текст. Прежде всего, мы определяли, насколько слова показывали смысл текста. В большинстве случаев слова действительно были предельно "точны", если можно так сказать. 
 ![alt text](С)
 
 Также, мы воспользовались Voyant tools, чтобы создать красивые облачки из слов. Это также показывает самые частотные слова, однако, если в AntCon мы загрузили список стоп-слов, избегая союзов, предлогов и т.д., то в облаке они, к сожалению, отражены. Но все равно красиво) 
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(1).png)
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(2).png) 
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(1).jpg)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(2).jpg) 
 
 Заключительный этап нашего проекта - презентация. К каждому документу есть слайд с частотными словами и несколько слайдов графиков для наглядности. 
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(10).png)
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(11).png)
-![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(12).png)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(10).jpg)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(11).jpg)
+![alt text](https://github.com/AryunaD6/Project-/blob/master/2019-05-28%20(12).jpg)
 
 На этом все! Надеемся, что наш проект имеет хоть какой-то коэффициент полезного действия. Нам было приятно работать над этим. 
 ![alt text](https://github.com/AryunaD6/Project-/blob/master/rtmMktvhm-U.jpg)
